@@ -1,0 +1,27 @@
+.header{
+	background: pink;
+	min-height: 60px;
+}
+.slider{
+	background: red;
+	min-height: 100px;
+}
+.box{
+	overflow: hidden;
+	border: 5px solid blue;
+}
+.blog{
+	background: yellow;
+	min-height: 100px;
+	width: 48.4%;
+	border: 10px solid black;
+	float: left;
+}
+.contact{
+	background: green;
+	min-height: 100px;
+}
+.footer{
+	background: skyblue;
+	min-height: 80px;
+}
